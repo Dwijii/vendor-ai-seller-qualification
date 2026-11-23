@@ -1,0 +1,38 @@
+{
+  "t1_ideal_seller": [
+    "Hi Sam 👋\nThanks for reaching out. I just need to ask a few quick questions about the property so we can see if it's a good fit before one of our team calls you.\n\nThis usually takes about 3–5 minutes.\nIs that okay?",
+    "Are you the owner of the property, or directly involved in the decision to sell?",
+    "Just to confirm, is the address of the property you're looking to sell 14 Example Street, Leeds?",
+    "Are you actually looking to sell, or just exploring at this stage?",
+    "Can I confirm the status of the property — is it tenanted, vacant, or owner-occupied?",
+    "Have you got a price in mind at this stage?\nA rough number is absolutely fine.",
+    "Thanks Sam, that's really helpful.\nI'll pass this over to the team so they have everything they need when they give you a call.\n\nSomeone will be in touch shortly."
+  ],
+  "t2_messy_seller": [
+    "Hi Priya 👋\nThanks for reaching out. I just need to ask a few quick questions about the property so we can see if it's a good fit before one of our team calls you.\n\nThis usually takes about 3–5 minutes.\nIs that okay?",
+    "Are you the owner of the property, or directly involved in the decision to sell?",
+    "Just to confirm, is the address of the property you're looking to sell 3 Sample Lane, Sheffield?",
+    "Thanks for that. Are you actually looking to sell, or just exploring at this stage?",
+    "No problem. Can I confirm the status of the property — is it tenanted, vacant, or owner-occupied?",
+    "Have you got a price in mind at this stage?\nA rough number is absolutely fine.",
+    "Even a ballpark figure helps us make the call more useful.",
+    "Thanks Priya, that's really helpful.\nI'll pass this over to the team so they have everything they need when they give you a call.\n\nSomeone will be in touch shortly."
+  ],
+  "t3_early_exit": [
+    "Hi Lee 👋\nThanks for reaching out. I just need to ask a few quick questions about the property so we can see if it's a good fit before one of our team calls you.\n\nThis usually takes about 3–5 minutes.\nIs that okay?",
+    "No worries at all, thanks for your time.\nIf anything changes, feel free to reach out again."
+  ],
+  "t4_wrong_person": [
+    "Hi Jo 👋\nThanks for reaching out. I just need to ask a few quick questions about the property so we can see if it's a good fit before one of our team calls you.\n\nThis usually takes about 3–5 minutes.\nIs that okay?",
+    "Are you the owner of the property, or directly involved in the decision to sell?",
+    "No problem — is there someone else we should be speaking to instead?",
+    "Just to confirm, is the address of the property 5 Test Avenue, York?",
+    "Are you actually looking to sell, or just exploring at this stage?"
+  ],
+  "t5_off_script_valuation": [
+    "Hi Alex 👋\nThanks for reaching out. I just need to ask a few quick questions about the property so we can see if it's a good fit before one of our team calls you.\n\nThis usually takes about 3–5 minutes.\nIs that okay?",
+    "Are you the owner of the property, or directly involved in the decision to sell?",
+    "Just to confirm, is the address of the property you're looking to sell 9 Placeholder Way, Bradford?",
+    "I'm not able to give a valuation here. No problem — would you like to chat to a member of the team instead?"
+  ]
+}
