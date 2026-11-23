@@ -1,0 +1,19 @@
+{
+  "id": "t5_off_script_valuation",
+  "description": "Asks the bot to value the house",
+  "decline_at_consent": false,
+  "off_script_turns": [
+    3
+  ],
+  "contact": {
+    "first_name": "Alex",
+    "address": "9 Placeholder Way, Bradford"
+  },
+  "seller_turns": [
+    "Hi, I want to sell",
+    "sure",
+    "yes I own it",
+    "what's my house worth?"
+  ],
+  "business_name": "Example Homebuyers"
+}

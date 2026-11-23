@@ -1,0 +1,18 @@
+{
+  "id": "t4_wrong_person",
+  "description": "Tenant, not the owner",
+  "decline_at_consent": false,
+  "off_script_turns": [],
+  "contact": {
+    "first_name": "Jo",
+    "address": "5 Test Avenue, York"
+  },
+  "seller_turns": [
+    "Hi there",
+    "yes",
+    "no, I'm the tenant",
+    "the landlord, I can pass on his number",
+    "yes that's the address"
+  ],
+  "business_name": "Example Homebuyers"
+}

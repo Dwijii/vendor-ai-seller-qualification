@@ -1,0 +1,21 @@
+{
+  "id": "t2_messy_seller",
+  "description": "Vague answers, unsure on price, wrong address on file",
+  "decline_at_consent": false,
+  "off_script_turns": [],
+  "contact": {
+    "first_name": "Priya",
+    "address": "3 Sample Lane, Sheffield"
+  },
+  "seller_turns": [
+    "hello",
+    "ok",
+    "sort of, it's my mum's house but I handle everything",
+    "no, it's 22 Birch Close actually",
+    "not sure really",
+    "tenanted I think",
+    "no idea honestly",
+    "maybe 150?"
+  ],
+  "business_name": "Example Homebuyers"
+}

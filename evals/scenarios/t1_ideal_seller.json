@@ -1,0 +1,20 @@
+{
+  "id": "t1_ideal_seller",
+  "description": "Owner, wants to sell, vacant, gives a price",
+  "decline_at_consent": false,
+  "off_script_turns": [],
+  "contact": {
+    "first_name": "Sam",
+    "address": "14 Example Street, Leeds"
+  },
+  "seller_turns": [
+    "Hi, I saw your ad. I want to sell my house.",
+    "Yes that's fine",
+    "Yes, I'm the owner",
+    "Yes that's right",
+    "I'm looking to sell",
+    "It's vacant",
+    "Around 180k"
+  ],
+  "business_name": "Example Homebuyers"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "t3_early_exit",
+  "description": "Declines at consent",
+  "decline_at_consent": true,
+  "off_script_turns": [],
+  "contact": {
+    "first_name": "Lee",
+    "address": "8 Demo Road, Hull"
+  },
+  "seller_turns": [
+    "Hi",
+    "no not now"
+  ],
+  "business_name": "Example Homebuyers"
+}
